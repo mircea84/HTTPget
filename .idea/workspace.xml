@@ -38,6 +38,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e35097a2-72e6-41ac-af62-d26bb038dcec" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/HTTPget/HTTP_get.java" afterPath="$PROJECT_DIR$/src/com/example/HTTPget/HTTP_get.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTTPget.iws" />
@@ -110,7 +111,7 @@
       <file leaf-file-name="HTTP_get.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/HTTPget/HTTP_get.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="288" column="9" selection-start="10174" selection-end="10174" vertical-scroll-proportion="0.29708222" vertical-offset="5018" max-vertical-offset="5634">
+            <state line="283" column="0" selection-start="10160" selection-end="10160" vertical-scroll-proportion="0.24933687" vertical-offset="4946" max-vertical-offset="5562">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -396,6 +397,22 @@
     <property name="SearchEverywhereHistory" value="" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/libs/GraphView-3.1.1.jar!/" />
     <property name="full.screen.before.presentation.mode" value="false" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth0" value="77" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth1" value="87" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth2" value="93" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatWidth3" value="1002" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_flatOrder3" value="3" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth0" value="77" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder0" value="0" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth1" value="87" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder1" value="1" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth2" value="93" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder2" value="2" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeWidth3" value="1002" />
+    <property name="FileHistory.git4idea.history.GitHistoryProvider_treeOrder3" value="3" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -600,7 +617,15 @@
       <created>1388494912287</created>
       <updated>1388494912287</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="?">
+      <created>1388494977052</created>
+      <updated>1388494977052</updated>
+    </task>
+    <task id="LOCAL-00005" summary="?&#10;">
+      <created>1388495030769</created>
+      <updated>1388495030769</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -625,10 +650,10 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="34" y="0" width="1333" height="744" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3296" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.1942502" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
@@ -697,7 +722,9 @@
     </option>
     <MESSAGE value="Initial Commit" />
     <MESSAGE value="Initial Commit&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit&#10;" />
+    <MESSAGE value="?" />
+    <MESSAGE value="?&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="?&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -1115,7 +1142,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/example/HTTPget/HTTP_get.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="288" column="9" selection-start="10174" selection-end="10174" vertical-scroll-proportion="0.29708222" vertical-offset="5018" max-vertical-offset="5634">
+        <state line="283" column="0" selection-start="10160" selection-end="10160" vertical-scroll-proportion="0.24933687" vertical-offset="4946" max-vertical-offset="5562">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
