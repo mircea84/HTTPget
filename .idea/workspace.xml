@@ -592,7 +592,11 @@
       <created>1388494814739</created>
       <updated>1388494814739</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Initial Commit&#10;">
+      <created>1388494877725</created>
+      <updated>1388494877725</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -688,7 +692,8 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="Initial Commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
+    <MESSAGE value="Initial Commit&#10;" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit&#10;" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
