@@ -283,9 +283,6 @@ private class GetJSON extends AsyncTask<String, Void, Void> {
 //    }
 
 
-
-
-
 //OPTIONS menu-----------------------------------------------------------------------------------
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
