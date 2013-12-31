@@ -38,37 +38,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e35097a2-72e6-41ac-af62-d26bb038dcec" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/libs/GraphView-3.1.1.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.name" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/AndroidManifest.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/example/HTTPget/BuildConfig.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/GraphView_3_1_1.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/HTTPget/HTTP_get.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/HTTPget.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/HTTPget/JSONParser.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/example/HTTPget/Manifest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gen/com/example/HTTPget/R.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/HTTPget/ServiceHandler.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/example/HTTPget/SettingsActivity.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/ant.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/dimens.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/local.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/layout/main.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/xml/preferences.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/copyright/profiles_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/proguard-project.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/project.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/scopes/scope_settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/menu/settings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="HTTPget.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -618,6 +588,11 @@
       <created>1387023577468</created>
       <updated>1387023577468</updated>
     </task>
+    <task id="LOCAL-00001" summary="Initial Commit">
+      <created>1388494814739</created>
+      <updated>1388494814739</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -712,7 +687,8 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="Initial Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Initial Commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
